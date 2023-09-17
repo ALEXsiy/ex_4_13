@@ -1,4 +1,4 @@
-package com.baturin.test14;
+package com.baturin.test14.person;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

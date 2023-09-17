@@ -1,4 +1,4 @@
-package com.baturin.test14;
+package com.baturin.test14.person;
 
 import java.time.LocalDate;
 

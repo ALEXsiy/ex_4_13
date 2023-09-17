@@ -1,4 +1,4 @@
-package com.baturin.test14;
+package com.baturin.test14.message;
 //CRUD Create (создание), Read (чтение), Update (модификация) и Delete (удаление)
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
